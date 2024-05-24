@@ -5,7 +5,10 @@ This repository examines an online music store using SQL.The goal of the project
 - Create a database.
 - Create tables using the schema diagram provided below.
 - Import csv files provided in the dataset folder.
+
+# Queries Answered
+
   
-# Schema Diagram
+# ENTITY RELATIONSHIP DIAGRAM
 ![P1](https://github.com/cwiredu1/Music-Store-Data-Analysis-Using-SQL/assets/121901813/86660d57-bb55-4946-9776-c2e002d1fa5c)
 
